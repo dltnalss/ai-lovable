@@ -1,3 +1,7 @@
+# md파일 수정했음.<BR>
+
+ <hr>
+
 # Vue 가계부 대시보드
 
 Vue 3 (Composition API) + Pinia + json-server + Bootstrap 5 + Google Charts + Font Awesome
